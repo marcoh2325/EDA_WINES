@@ -4,3 +4,6 @@ The code was made by: Helen Navarro, Berta Pfaff, Sergio Salvador and myself (Ma
 Two exercises made during the Master in Data Science at Assembler Institute of Technology <br>
 First exercise: The objective is to made an exploratory data analysis to some data about traffic fines in Madrid <br>
 Second exercise: The objective is to made an exploratory data analysis to some data about wine scores around the world. <br>
+
+Ideas for the future:
+- Use more up-to-date data.
