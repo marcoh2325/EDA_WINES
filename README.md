@@ -1,4 +1,5 @@
 # FINES_AND_WINES
+These exercises were solved by Sergio Salvador, Helen Navarro, Berta Pfaff and Marco Hernani <br>
 
 Two exercises made during the Master in Data Science at Assembler Institute of Technology <br>
 First exercise: The objective is to made an exploratory data analysis to some data about traffic fines in Madrid <br>
