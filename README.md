@@ -5,7 +5,7 @@ Two exercises made during the Master in Data Science at Assembler Institute of T
 First exercise: The objective is to made an exploratory data analysis to some data about traffic fines in Madrid <br>
 Second exercise: The objective is to made an exploratory data analysis to some data about wine scores around the world. <br>
 
-The data used for the first exercise goes from 2014 to 2020. The data was actually stored in csv files that our teacher give us to make the task.
+The data used for the first exercise is for 2020. The data was actually stored in csv files that our teacher give us to make the task.
 
 The data was taken from this webssite:
 
