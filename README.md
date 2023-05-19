@@ -13,6 +13,9 @@ https://datos.madrid.es/portal/site/egob/menuitem.c05c1f754a33a9fbe4b2e4b284f1a5
 
 More information about the data found there.
 
+For the second exercise the data was obtained from this website:
+https://www.winemag.com/?s=&drink_type=wine
+
 
 
 Ideas for the future:
